@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "her",
+  "base_artist": "JVKE",
+  "createdAt": "2026-02-26T17:21:20.470725Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Leave Her Johnny",
+      "artist": "Nils Brown, Seán Dagher, David Gossage & Michiel Schrey",
+      "has_synced": true,
+      "path": "select/01_Leave_Her_Johnny_Nils_Brown,_Seán_Dagher,_David_Gossage_&_Michiel_Schrey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Leave Her Johnny",
+      "artist": "Nils Brown",
+      "has_synced": true,
+      "path": "select/02_Leave_Her_Johnny_Nils_Brown.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Make Her Look Dumb",
+      "artist": "Maddie & Tae feat. Morgane Stapleton",
+      "has_synced": true,
+      "path": "select/03_Don't_Make_Her_Look_Dumb_Maddie_&_Tae_feat._Morgane_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Make Her Look Dumb",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/04_Don't_Make_Her_Look_Dumb_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wild As Her",
+      "artist": "Tyler Joe Miller",
+      "has_synced": true,
+      "path": "select/05_Wild_As_Her_Tyler_Joe_Miller.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wild as Her",
+      "artist": "Corey Kent",
+      "has_synced": true,
+      "path": "select/06_Wild_as_Her_Corey_Kent.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Her & I (Slow Jam II)",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/07_Her_&_I_(Slow_Jam_II)_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Her & I (Slow Jam II)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/08_Her_&_I_(Slow_Jam_II)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Her And I (Slow Jam 2)",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/09_Her_And_I_(Slow_Jam_2)_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(Lost Her Love) On Our Last Date",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/10_(Lost_Her_Love)_On_Our_Last_Date_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/11_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/12_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Leave Her Lonely Too Long",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/13_Don't_Leave_Her_Lonely_Too_Long_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Leave Her Lonely Too Long (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/14_Don't_Leave_Her_Lonely_Too_Long_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Let Her",
+      "artist": "Walker Hayes",
+      "has_synced": true,
+      "path": "select/15_Don't_Let_Her_Walker_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Take Her She's All I Got",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/16_Don't_Take_Her_She's_All_I_Got_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "For Her",
+      "artist": "Chris Lane",
+      "has_synced": true,
+      "path": "select/17_For_Her_Chris_Lane.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "God Love Her",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/18_God_Love_Her_Toby_Keith.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "her",
+      "artist": "JVKE",
+      "has_synced": false,
+      "path": "select/pl_01_her_JVKE.txt"
+    }
+  ]
+}
