@@ -1,55 +1,78 @@
-# JVKE – her (feat. Annika Wells)
+# JVKE – her
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:06.58] (Hold me close) look me dead in my eyes
-[00:10.04] (Dead in my) 'til the day that I die
-[00:13.39] (Dead inside) I just wanna feel alive
-[00:16.33] (With you, I'm alive) with you, I'm alive
-[00:19.78] Fell in love, but it left me lonely
-[00:23.31] Tried to trust, but it burned me slowly
-[00:27.26] I didn't know what I was looking for
-[00:45.26] 
-[00:30.55] 'Til I found her
-[00:38.27] (I found her)
-[00:44.72] Without her
-[00:47.25] I'm a mess (I'm a mess)
-[00:47.93] There was nothing 'bout that love that made sense, I was stressed
-[00:51.42] 'Til I found her (oh, oh)
-[01:03.92] 
-[00:59.94] Found me lonely
-[01:01.40] Lost and only one step away from just giving up slowly
-[01:06.51] I was a mess, I was afraid
-[01:08.42] I'd be the girl who just put up a wall, no one could break
-[01:11.72] 'Til I found him
-[01:19.72] 
-[01:13.43] Running through the wild with half of a heart
-[01:16.19] Made me a whole one out of the parts
-[01:19.18] Suddenly it's like I'm healed
-[01:21.57] Didn't know that love was real
-[01:22.95] Until I found
-[01:29.45] 
-[01:25.60] (Baby, hold me close) look me dead in my eyes
-[01:29.73] (Dead in my) 'til the day that I die
-[01:33.24] (Dead inside) I just wanna feel alive
-[01:35.96] (With you, I'm alive) with you, I'm, uh
-[01:39.99] Fell in love, but it left me lonely
-[01:43.18] Tried to trust, but it burned me slowly
-[01:47.30] I didn't know what I was looking for
-[02:05.30] 
-[01:50.29] 'Til I found her
-[01:57.56] (I found her, oh, oh)
-[02:05.14] Without her
-[02:06.99] I'm a mess (I'm a mess)
-[02:07.79] There was nothing 'bout that love that made sense, I was stressed
-[02:40.29] 
-[02:11.13] 'Til I found her (oh, oh)
-[02:18.10] Without her
-[02:20.36] I'm a mess
-[02:21.00] There was nothing 'bout that love that made sense, I was stressed
-[02:23.87] 'Til I found her (oh, oh)
-[02:36.37] 
-[02:30.69] 'Til I found her
-[02:38.14] Ooh-ooh-ooh
+```
+Hold me close
+Look me dead in my eyes
+Dead in my
+Til the day that i die(eyes)
+Dead inside
+I just wanna feel alive
+With you i'm alive
+With you i'm alive
+Fell in love but it
+left me lonely
+Tried to trust but it
+burned me slowly
+I didn't know
+what i was looking for
+Til i found
+her
+I found her
+Without her
+I'm a mess
+There was nothing bout that
+Love that made sense
+I was stressed
+Til i found her(oh,oh)
+I've run for many miles
+Trying to find love
+From a woman that could love me
+And never leave my side
+And i've run for many miles
+Trying to get away from the
+Things i'm afraid of
+And everything inside
+You say that"we're already done"
+But what does that even mean?
+You tell me to open my eyes
+Thank god it was just a dream
+I guess thats how you know
+That it's love
+When you're scared to
+death they'll leave
+Just say that you'll never leave
+Never leave
+baby
+Hold me close
+Look me dead in my eyes
+Dead in my
+Til the day that i die
+Dead inside
+I just wanna feel alive
+With you i'm alive
+With you i'm a-
+Fell in love but it
+left me lonely
+Tried to trust but it
+burned me slowly
+I didn't know what i was
+looking for
+Til i found
+Her
+I found her
+Without her
+I'm a mess
+There was nothing bout that
+love that made sense
+I was stressed
+Til i found her
+Without her
+I'm a mess
+There was nothing bout that
+Love that made sense
+I was stressed
+Til i found her(oh,oh)
+Til i found her(woo,ooh,ooh)
 ```
